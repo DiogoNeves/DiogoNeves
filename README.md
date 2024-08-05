@@ -11,8 +11,24 @@
 - 📍 I regularly attend events in **London and Cambridge, UK**
 
 ## 🎥 Latest YouTube Videos
-- [**How to Run Local AI Models - in 5 minutes**](https://youtu.be/Zcp4rAWbyjk?si=JvSknYoex0ohUj77)
-- [**Boost Your AI Models: Insights from GenAI London 2024**](https://youtu.be/bF7WnLk5ix4?si=0s50t7K-Fq5Klgf6)
+<table>
+  <tr>
+    <td style="width: 50%; text-align: center;">
+      <a href="https://youtu.be/Zcp4rAWbyjk?si=JvSknYoex0ohUj77">
+        <img src="https://img.youtube.com/vi/Zcp4rAWbyjk/0.jpg" alt="How to Run Local AI Models - in 5 minutes" style="width:100%; max-width:300px;">
+      </a>
+      <br>
+      <a href="https://youtu.be/Zcp4rAWbyjk?si=JvSknYoex0ohUj77"><b>How to Run Local AI Models - in 5 minutes</b></a>
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <a href="https://youtu.be/bF7WnLk5ix4?si=0s50t7K-Fq5Klgf6">
+        <img src="https://img.youtube.com/vi/bF7WnLk5ix4/0.jpg" alt="Boost Your AI Models: Insights from GenAI London 2024" style="width:100%; max-width:300px;">
+      </a>
+      <br>
+      <a href="https://youtu.be/bF7WnLk5ix4?si=0s50t7K-Fq5Klgf6"><b>Boost Your AI Models: Insights from GenAI London 2024</b></a>
+    </td>
+  </tr>
+</table>
 
 ## 📡 Connect with Me
 - YouTube: [DiogoNeves](http://www.youtube.com/@DiogoNeves)
