@@ -14,11 +14,11 @@
 <table>
   <tr>
     <td style="width: 50%; text-align: center;">
-      <a href="https://youtu.be/Zcp4rAWbyjk?si=JvSknYoex0ohUj77">
-        <img src="https://img.youtube.com/vi/Zcp4rAWbyjk/0.jpg" alt="How to Run Local AI Models - in 5 minutes" style="width:100%; max-width:300px;">
+      <a href="https://youtu.be/gQVZof1_2T0?si=h5nP6ZbX0VpA8I6V">
+        <img src="https://img.youtube.com/vi/gQVZof1_2T0/0.jpg" alt="How to Run Local LLMs in 30 Seconds | Llamafiles" style="width:100%; max-width:300px;">
       </a>
       <br>
-      <a href="https://youtu.be/Zcp4rAWbyjk?si=JvSknYoex0ohUj77"><b>How to Run Local AI Models - in 5 minutes</b></a>
+      <a href="https://youtu.be/gQVZof1_2T0?si=h5nP6ZbX0VpA8I6V"><b>How to Run Local LLMs in 30 Seconds | Llamafiles</b></a>
     </td>
     <td style="width: 50%; text-align: center;">
       <a href="https://youtu.be/bF7WnLk5ix4?si=0s50t7K-Fq5Klgf6">
