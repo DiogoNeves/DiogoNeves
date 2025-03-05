@@ -14,18 +14,18 @@
 <table>
   <tr>
     <td style="width: 50%; text-align: center;">
-      <a href="https://youtu.be/gQVZof1_2T0?si=h5nP6ZbX0VpA8I6V">
-        <img src="https://img.youtube.com/vi/gQVZof1_2T0/0.jpg" alt="How to Run Local LLMs in 30 Seconds | Llamafiles" style="width:100%; max-width:300px;">
+      <a href="https://youtu.be/P8-CUb9B4A4">
+        <img src="https://img.youtube.com/vi/P8-CUb9B4A4/0.jpg" alt="Build an AI Chat Interface in Python | Step-by-Step" style="width:100%; max-width:300px;">
       </a>
       <br>
-      <a href="https://youtu.be/gQVZof1_2T0?si=h5nP6ZbX0VpA8I6V"><b>How to Run Local LLMs in 30 Seconds | Llamafiles</b></a>
+      <a href="https://youtu.be/P8-CUb9B4A4"><b>💬 Build an AI Chat Interface in Python | Step-by-Step</b></a>
     </td>
     <td style="width: 50%; text-align: center;">
-      <a href="https://youtu.be/bF7WnLk5ix4?si=0s50t7K-Fq5Klgf6">
-        <img src="https://img.youtube.com/vi/bF7WnLk5ix4/0.jpg" alt="Boost Your AI Models: Insights from GenAI London 2024" style="width:100%; max-width:300px;">
+      <a href="https://youtu.be/AHGyGeEhRZs">
+        <img src="https://img.youtube.com/vi/AHGyGeEhRZs/0.jpg" alt="How to run DeepSeek R1 locally in 5 Minutes" style="width:100%; max-width:300px;">
       </a>
       <br>
-      <a href="https://youtu.be/bF7WnLk5ix4?si=0s50t7K-Fq5Klgf6"><b>Boost Your AI Models: Insights from GenAI London 2024</b></a>
+      <a href="https://youtu.be/AHGyGeEhRZs?si=Bk_AuB95FG3mUqPg"><b>How to run DeepSeek R1 locally in 5 Minutes 🚀</b></a>
     </td>
   </tr>
 </table>
