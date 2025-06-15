@@ -1,17 +1,19 @@
 # Hi there 👋, I'm Diogo!
+> DIY AI, gamedev & experiments
 
 [![GitHub followers](https://img.shields.io/github/followers/DiogoNeves?label=Follow&style=social)](https://github.com/DiogoNeves) [![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/UCdQ-R9abgxDAB-zPM9JAqXg?label=YouTube&style=social)](https://www.youtube.com/DiogoNeves)  
 I do YT Lives Tuesdays & Thursday. Join me 👆 and **let's build together**!
 
 ## 👨‍💻 About Me
-- 🌱 I’m currently diving deeper into **content creation and YouTube growth**, focusing on AI and coding content.
+- 🌱 I focus on how to create high-quality projects with AI  
+- 👨‍💻 I'm developing That AI Thing, a simple assistant for emails - send to an address, get a response  
+- 🎥 Creating content on [YouTube](https://www.youtube.com/DiogoNeves)  
 - 💼 I’m a Software Engineer at **Glyphic AI** and **Metaphora Studios**
-- 🚀 I love working on **AI, data processing, simulations, automation, and tools**
-- 💬 Ask me about **building AI applications and developing data tooling/pipelines**
-- ⚡ Previously: I contributed to **Siri's on-device capabilities** at **Apple (AIML)** and led the development of an annotation platform. At **Sony PlayStation**, I worked on **award-winning games, including a BAFTA winner**, as well as on game technology and innovative concepts.
-- 📍 I regularly attend events in **London and Cambridge, UK**
+- ⚡ Previously: I contributed to **Siri's on-device capabilities** at **Apple (AIML)** and led the development of an annotation platform. At **Sony PlayStation**, I worked on **award-winning games, including a BAFTA winner**, as well as on game technology and innovative concepts
 
 ## 🎥 Latest YouTube Videos
+> Don't forget to check out the lives, not included here
+
 <table>
   <tr>
     <td style="width: 50%; text-align: center;">
