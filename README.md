@@ -1,6 +1,7 @@
 # Hi there 👋, I'm Diogo!
 
 [![GitHub followers](https://img.shields.io/github/followers/DiogoNeves?label=Follow&style=social)](https://github.com/DiogoNeves) [![Subscribe on YouTube](https://img.shields.io/youtube/channel/subscribers/UCdQ-R9abgxDAB-zPM9JAqXg?label=YouTube&style=social)](https://www.youtube.com/DiogoNeves)
+I do YT Lives Tuesdays & Thursday. Join me 👆 and **let's build together**!
 
 ## 👨‍💻 About Me
 - 🌱 I’m currently diving deeper into **content creation and YouTube growth**, focusing on AI and coding content.
