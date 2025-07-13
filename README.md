@@ -17,11 +17,11 @@ I do YT Lives Tuesdays & Thursday. Join me 👆 and **let's build together**!
 <table>
   <tr>
     <td style="width: 50%; text-align: center;">
-      <a href="https://youtu.be/P8-CUb9B4A4">
-        <img src="https://img.youtube.com/vi/P8-CUb9B4A4/0.jpg" alt="Build an AI Chat Interface in Python | Step-by-Step" style="width:100%; max-width:300px;">
+      <a href="https://youtu.be/p6_ZeqYDwTA">
+        <img src="https://img.youtube.com/vi/p6_ZeqYDwTA/0.jpg" alt="What If AI Had an Existential Crisis?" style="width:100%; max-width:300px;">
       </a>
       <br>
-      <a href="https://youtu.be/P8-CUb9B4A4"><b>💬 Build an AI Chat Interface in Python | Step-by-Step</b></a>
+      <a href="https://youtu.be/P8-CUb9B4A4"><b>What If AI Had an Existential Crisis?</b></a>
     </td>
     <td style="width: 50%; text-align: center;">
       <a href="https://youtu.be/AHGyGeEhRZs">
